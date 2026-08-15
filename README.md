@@ -28,7 +28,9 @@ Contém os exercícios desenvolvidos durante a disciplina para praticar conceito
 ## Disciplina
 
 **Disciplina:** Inteligência Artificial
+
 **Curso:** Engenharia de Software
+
 **Instituição:** Universidade Mogi das Cruzes (UMC)
 
 Este repositório será atualizado conforme novos notebooks e atividades forem desenvolvidos durante a disciplina.
