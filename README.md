@@ -19,11 +19,26 @@ Contém os exercícios desenvolvidos durante a disciplina para praticar conceito
 * Manipulação de matrizes;
 * Outros exercícios de lógica de programação.
 
+### NumPy, SciPy, Pandas e Matplotlib
+
+Contém exercícios voltados à utilização de bibliotecas Python para computação científica, análise e manipulação de dados e visualização gráfica, incluindo:
+
+* Criação e manipulação de arrays e matrizes com NumPy;
+* Operações matemáticas e estatísticas;
+* Resolução de equações e sistemas com SciPy;
+* Integração e otimização numérica;
+* Interpolação e Transformada de Fourier;
+* Manipulação e análise de dados com Pandas;
+* Leitura e exportação de arquivos;
+* Criação de gráficos com Matplotlib;
+* Visualização de dados em diferentes tipos de gráficos.
+
 ## Arquivos
 
-| Arquivo                   | Descrição                                                                     |
-| ------------------------- | ----------------------------------------------------------------------------- |
-| `Exercícios_Python_Alexandre Henrique_6°D._Manhã.ipynb` | Notebook contendo os exercícios de Python desenvolvidos durante a disciplina. |
+| Arquivo                                                                                 | Descrição                                                                                             |
+| --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| `Exercícios_Python_Alexandre Henrique_6°D._Manhã.ipynb`                                 | Notebook contendo os exercícios de Python desenvolvidos durante a disciplina.                         |
+| `Exercícios_Numpy \| Scipy \| Pandas \| Matplotlib_Alexandre Henrique_6°D._Manhã.ipynb` | Notebook contendo exercícios de NumPy, SciPy, Pandas e Matplotlib desenvolvidos durante a disciplina. |
 
 ## Disciplina
 
